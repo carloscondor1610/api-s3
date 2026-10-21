@@ -1,4 +1,4 @@
-org: carloscondorc
+org: carloscondort5ii
 service: api-s3
 
 provider:
@@ -8,7 +8,7 @@ provider:
   memorySize: 256
   timeout: 20
   iam:
-    role: arn:aws:iam::447891120606:role/LabRole
+    role: arn:aws:iam::512118829948:role/LabRole
 
 functions:
   lista_buckets:
